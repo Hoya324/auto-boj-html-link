@@ -1,7 +1,9 @@
 // 백준 알고리즘 문제 링크 자동으로 생성하기
 // 제목 형식
 // (언어) | 제목 [백준 1316]
-// 예시 ) Java | DFS와 BFS [백준 1260]
+// 입력 예시 ) Java | DFS와 BFS [백준 1260]
+/* 출력 예시 ) DFS와 BFS [백준 1260]
+             출처 | <a href="https://www.acmicpc.net/problem/1260" target="_blank" rel="noreferrer noopener">DFS와 BFS [백준 1260]</a> */
 
 import java.io.*;
 
